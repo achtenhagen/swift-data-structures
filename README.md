@@ -1,2 +1,2 @@
 # swift-data-structures
-Various examples of data structures implemented in Swift
+Various examples of data structures and algorithms implemented in Swift.
